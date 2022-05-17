@@ -1,2 +1,2 @@
 # Practica
-Ejercicios q voy encontrando en internet para ir practicando
+Ejercicios q voy encontrando en internet para ir practicando codigo
